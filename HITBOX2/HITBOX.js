@@ -7004,7 +7004,7 @@ p.nominalBounds = new cjs.Rectangle(-143,-124,308.3,265);
 		// https://fonts.google.com/?subset=hebrew
 		WebFontConfig = {
 			google: {
-				families: ['Rubik', sans-serif] //כאן בחרו את הפונט
+				families: ['Rubik'] //כאן בחרו את הפונט
 			}
 		};
 		
