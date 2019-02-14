@@ -7236,19 +7236,19 @@ p.nominalBounds = new cjs.Rectangle(-143,-124,308.3,265);
 			]]
 		];
 		/* music */
-		createjs.Sound.registerSound("/sounds/correctAnswer.mp3", "correctAnswer");
+		createjs.Sound.registerSound("https://hila-mann.github.io/box1try/HITBOX2/sounds/correctAnswer.mp3", "correctAnswer");
 		createjs.Sound.stop("correctAnswer");
 		
-		createjs.Sound.registerSound("/sounds/worngAnswer.mp3", "worngAnswer");
+		createjs.Sound.registerSound("https://hila-mann.github.io/box1try/HITBOX2/sounds/worngAnswer.mp3", "worngAnswer");
 		createjs.Sound.stop("worngAnswer");
 		
-		createjs.Sound.registerSound("/sounds/clock10.mp3", "clock10");
+		createjs.Sound.registerSound("https://hila-mann.github.io/box1try/HITBOX2/sounds/clock10.mp3", "clock10");
 		createjs.Sound.stop("clock10");
 		
-		createjs.Sound.registerSound("/sounds/switchTurn.mp3", "switchTurn");
+		createjs.Sound.registerSound("https://hila-mann.github.io/box1try/HITBOX2/sounds/switchTurn.mp3", "switchTurn");
 		createjs.Sound.stop("switchTurn");
 		
-		createjs.Sound.registerSound("/sounds/winner.mp3", "winner");
+		createjs.Sound.registerSound("https://hila-mann.github.io/box1try/HITBOX2/sounds/winner.mp3", "winner");
 		createjs.Sound.stop("winner");
 		
 		//Container
