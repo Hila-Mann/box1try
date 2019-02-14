@@ -7637,7 +7637,7 @@ p.nominalBounds = new cjs.Rectangle(-143,-124,308.3,265);
 					//צירוף שם המשחק
 					var nameOfGame = new createjs.Text();
 					nameOfGame.font = gameTitleStyle;
-					nameOfGame.text = "נושא הדו-קרוב: " + games[mychoice][0];
+					nameOfGame.text = "נושא הדו-קרב: " + games[mychoice][0];
 					nameOfGame.x = 360;
 					nameOfGame.y = -175;
 					nameOfGame.textAlign = "right";
