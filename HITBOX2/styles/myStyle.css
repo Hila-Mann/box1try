@@ -80,14 +80,14 @@ header {
     }
 
     .howToPlayUl > li:nth-child(1) {
-        list-style-image: url(../images/V.png);
+        list-style-image: url(https://hila-mann.github.io/box1try/HITBOX2/images/V.png);
     }
 
     .howToPlayUl > li:nth-child(2) {
-        list-style-image: url(../images/x.png);
+        list-style-image: url(https://hila-mann.github.io/box1try/HITBOX2/images/x.png);
     }
     .howToPlayUl > li:last-child {
-        list-style-image: url(../images/crown1.png);
+        list-style-image: url(https://hila-mann.github.io/box1try/HITBOX2/images/crown1.png);
     }
 
     nav {
